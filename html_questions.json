@@ -1,0 +1,120 @@
+[{
+    "title":"What Is The Correct HTML Tag To Make Text IAtalic?",
+    "answer_1":"<italic>",
+    "answer_2":"<i>",
+    "answer_3": "<it>",
+    "answer_4":"<em>",
+    "right_answer":"<i>"
+},
+{
+    "title":"Why We Use <br> Element",
+    "answer_1":"To Make Text Bold",
+    "answer_2":"To Make Text Italic",
+    "answer_3": "To Add Breakline",
+    "answer_4":"To Create Horizontal Line",
+    "right_answer":"To Add Breakline"
+},
+{
+    "title":"Which Attribute Is Used To Open Link In New Tab?",
+    "answer_1":"target='_self'",
+    "answer_2":"open='_blank'",
+    "answer_3": "target='_blank'",
+    "answer_4":"tab='new'",
+    "right_answer":"target='_blank'"   
+},
+{
+    "title":"Which CSS Property Controls Text Size",
+    "answer_1":"font-weight",
+    "answer_2":"text-style",
+    "answer_3": "font-size",
+    "answer_4":"text-size",
+    "right_answer":"font-size"   
+},
+{
+    "title":"What Is The Default Display Type Of <div> Element",
+    "answer_1":"inline",
+    "answer_2":"block",
+    "answer_3": "inline-block",
+    "answer_4":"flex",
+    "right_answer":"block"
+},
+{
+    "title":"Which Symbol Is Used For Comments In JavaScript",
+    "answer_1":"//",
+    "answer_2":"<-- --!>",
+    "answer_3": "#",
+    "answer_4":"/* */",
+    "right_answer":"//"
+},
+{
+    "title":"How Do We Declare A Variable In JavaScript ?",
+    "answer_1":"var name",
+    "answer_2":"variable name",
+    "answer_3": "v name",
+    "answer_4":"let var",
+    "right_answer":"var name"
+},
+{
+    "title":"Which  Method Prints Message In Browser Console ?",
+    "answer_1":"print",
+    "answer_2":"console.log",
+    "answer_3": "message",
+    "answer_4":"alert",
+    "right_answer":"console.log"
+},
+{
+    "title":"Which HTML Tag Is Used To Insert Image",
+    "answer_1":"<img>",
+    "answer_2":"<image>",
+    "answer_3": "<src>",
+    "answer_4":"<picture>",
+    "right_answer":"<img>"
+},
+{
+    "title":"Which JavaScript Keyword Stops Code Execution?",
+    "answer_1":"stop",
+    "answer_2":"exit",
+    "answer_3": "break",
+    "answer_4":"end",
+    "right_answer":"break"
+},
+{
+    "title":"What Will Happen If Two CSS Classes Apply Confilcting Styles ?",
+    "answer_1":"The First Class wins",
+    "answer_2":"The Last Class In Source Order Wins",
+    "answer_3": "The Browser Chooses Randomly",
+    "answer_4":"Both Style Are Ignored",
+    "right_answer":"The Last Class In Source Order Wins"
+},
+{
+    "title":"Which CSS Property Creates A New Stacking Context ?",
+    "answer_1":"position:relative",
+    "answer_2":"z-index: 1",
+    "answer_3": "opacity < 1",
+    "answer_4":"display: block",
+    "right_answer":"opacity < 1"
+},
+{
+    "title":"Which Statemernt About Closures Is Correct?",
+    "answer_1":"They Allow Functions To Access Outer Scope After Execution ",
+    "answer_2":"They Only Work With Arrow Functions",
+    "answer_3": "They Improve Global Variables",
+    "answer_4":"They Remove Global Variables",
+    "right_answer":"They Allow Functions To Access Outer Scope After Execution"
+},
+{
+    "title":"What HTML Attribute Improves Web Acceessibility",
+    "answer_1":"data-role",
+    "answer_2":"aria-label",
+    "answer_3": "access",
+    "answer_4":"role-id",
+    "right_answer":"aria-label"
+},
+{
+    "title":"Which JavaScript Method Is Non-Blocking?",
+    "answer_1":"JSON.parse",
+    "answer_2":"setTimeout",
+    "answer_3": "while() Loop",
+    "answer_4":"for() Loop",
+    "right_answer":"setTimeout"
+}]
